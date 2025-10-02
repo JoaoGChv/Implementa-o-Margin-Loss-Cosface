@@ -25,7 +25,7 @@ O trabalho partiu de uma implementação base do [keras-arcface](https://github.
 
 Este projeto representa uma evolução significativa da base original, focando em robustez, escalabilidade e práticas de engenharia de software para Machine Learning.
 
--    **Transição para Datasets de Larga Escala:**
+-   **Transição para Datasets de Larga Escala:**
     -   **De MNIST para Faces:** O pipeline foi completamente adaptado para treinar no **VGGFace2** (~3M de imagens, ~9k identidades).
     -   **Validação Padrão de Mercado:** A avaliação de performance é realizada no **LFW (Labeled Faces in the Wild)**, permitindo a comparação com resultados acadêmicos.
 
